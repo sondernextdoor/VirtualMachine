@@ -28,7 +28,7 @@ unsafe public class Assembler
 		static public readonly long MOVB = -0x7E5134;
 		static public readonly long MOVW = -0x7E5135;
 		static public readonly long MOVD = -0x7E5136;
-		static public readonly long MOVF = -0x7E5137;
+		static public readonly long MOVF = -0x8E5137;
 		static public readonly long CMP = -0x7E5138;
 		static public readonly long RET = -0x7E5139;
 
