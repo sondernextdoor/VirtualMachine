@@ -83,7 +83,7 @@ unsafe public class Assembler
 		instructionMap.Add( "movb", -0x7E5134 );
 		instructionMap.Add( "movw", -0x7E5135 );
 		instructionMap.Add( "movd", -0x7E5136 );
-		instructionMap.Add( "movf", -0x7E5137 );
+		instructionMap.Add( "movf", -0x8E5137 );
 		instructionMap.Add( "cmp", -0x7E5138 );
 		instructionMap.Add( "ret", -0x7E5139 );
 		instructionMap.Add( "add", -0x7E5140 );
